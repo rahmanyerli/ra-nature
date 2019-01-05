@@ -1,0 +1,39 @@
+{
+	"name": "ra-nature",
+	"displayName": "Ra Nature",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Nature",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-nature.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-nature"
+	},
+	"icon": "images/ra.png",
+	"keywords": [
+		"ra nature",
+		"ranature",
+		"ra-nature",
+		"ra nature theme",
+		"theme",
+		"ra"
+	]
+}
