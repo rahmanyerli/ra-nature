@@ -2,9 +2,7 @@
 
 **Here is the best theme for your eye care!**
 
-[GitHub Repository](https://github.com/rahmanyerli/ra-dark)
-
-Ra Light and Ra Silver themes are coming soon...
+[GitHub Repository](https://github.com/rahmanyerli/ra-nature)
 
 > HTML
 
