@@ -28,12 +28,22 @@
 		"url": "https://github.com/rahmanyerli/ra-nature"
 	},
 	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#303030",
+		"theme": "dark"
+	},
 	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra dark theme",
 		"ra nature",
 		"ranature",
 		"ra-nature",
-		"ra nature theme",
-		"theme",
-		"ra"
+		"ra nature theme"
 	]
 }
