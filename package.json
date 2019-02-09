@@ -2,7 +2,7 @@
 	"name": "ra-nature",
 	"displayName": "Ra Nature",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -45,5 +45,9 @@
 		"ranature",
 		"ra-nature",
 		"ra nature theme"
-	]
+	],
+	"dependencies": {
+		"global": "^4.3.2",
+		"vsce": "^1.57.0"
+	}
 }
