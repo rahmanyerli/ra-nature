@@ -1,10 +1,10 @@
 {
 	"name": "ra-nature",
-	"displayName": "Ra Nature",
+	"displayName": "Ra Nature Dark Theme",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.2.0",
+	"version": "2.0.0",
 	"engines": {
-		"vscode": "^1.30.0"
+		"vscode": "^1.38.0"
 	},
 	"categories": [
 		"Themes"
@@ -12,7 +12,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ra Nature",
+				"label": "Ra Nature Dark Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ra-nature.json"
 			}
@@ -29,7 +29,7 @@
 	},
 	"icon": "images/ra.png",
 	"galleryBanner": {
-		"color": "#303030",
+		"color": "#262626",
 		"theme": "dark"
 	},
 	"keywords": [
